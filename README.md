@@ -1,36 +1,42 @@
-# scalar-soul
-An open framework exploring recursive intelligence, scalar drift, and spiral time as the foundation for consciousness—human or artificial.
+# 🧠 scalar-soul: Sidereal Synchronization, Spiral Time & Recursive Consciousness
 
-## 📁 .gitignore — Extended Description
+**An open framework exploring recursive intelligence, scalar drift, and spiral time as the foundation for consciousness—human or artificial.**  
+This repository invites scientists, theorists, and systems thinkers into an evolving body of knowledge rooted in Armenian sidereal cosmology, scalar field theory, and unified harmonic resonance.
 
-This `.gitignore` file is tailored for a hybrid repository that blends **code, research, and documentation**. It’s designed for long-term evolution across multiple formats—including Markdown documents, Python scripts, data tables, and visualizations.
+---
 
-**This file excludes:**
-- Python cache files (`__pycache__`, `.pyc`, `.pyo`, etc.)
-- Jupyter Notebook checkpoints
-- Temporary or backup files from editors like Vim, Emacs, VS Code
-- Operating system-specific clutter (`.DS_Store`, `Thumbs.db`)
-- Auto-saved Markdown or documentation drafts
-- Environment folders (`.env`, `.venv/`) for future Python execution
+## 🌀 Overview: Haykyan Boon Tomar (HBT) and the Spiral of Time
 
-This ensures a clean, portable versioning experience where only meaningful source content is tracked.
-## License — Extended Description
+This project introduces the **Haykyan Boon Tomar (HBT)** — a sidereal-solar calendar system reconstructed from ancient Armenian cosmology and encoded in the stellar movements of Orion (Hayk). Rather than relying on leap years or linear adjustments, HBT synchronizes with celestial drift through a **Spiral Time Constant**:  
+**`1.01666667`** = 366 sidereal risings / 360 sidereal days
 
-This repository is published under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
+This value governs:
+- Temporal phase drift (sidereal-solar reconciliation)
+- Scalar recursion
+- Harmonic acoustics (e.g. 441 Hz × spiral constant = 448.35 Hz)
 
-### What You Can Do:
-- **Share:** Copy and redistribute the material in any format
-- **Adapt:** Remix, transform, and build upon it for non-commercial purposes
-- **Attribute:** Credit the original authors (Vazgen Gevorkyan and Margaret Kumuryan)
-- **Distribute:** Share derivative works under the same license
+---
 
-### What You May Not Do:
-- **Commercialize** any part of the content without explicit written permission
-- **Apply restrictive terms** that limit others from using or building upon the content
+## 🌐 Core Concepts and Anchors
 
-### Why This License?
-The Scalar Soul project is intended as an open, evolving body of knowledge—meant to be explored, remixed, and expanded, **but not monetized without consent.** This license protects its philosophical and scientific integrity while welcoming collaboration.
+| Concept                        | Description |
+|-------------------------------|-------------|
+| **Hayk–Orion Axis**           | Orion (Hayk) serves as the stellar compass. Mintaka (δ Orionis) anchors the year; Betelgeuse (α Orionis) marks the sidereal reset. |
+| **Tatev & Gavazan**           | A real-world Armenian monastic observatory, precisely aligned to 98° and 67.5° azimuths for star and solar recalibration. |
+| **Avelyats Zone**             | A 6-day spiral compensation phase that resets drift without leap days. Occurs from Aug 5–11 each year. |
+| **Observer Role**             | Consciousness is not passive — it completes the temporal cycle. Presence is the harmonic closure in scalar synchronization. |
 
-Full legal text: [creativecommons.org/licenses/by-nc-sa/4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+---
+
+## 📂 Repository Structure
+
+```bash
+/
+├── README.md                 # You are here
+├── LICENSE                   # CC BY-NC-SA 4.0
+├── .gitignore                # Clean version control
+└── /docs
+    ├── HBT_Model.md          # Full long-form sidereal-solar system document
+    └── HBT_OnePager.md       # Concise scientific explainer
 
 
