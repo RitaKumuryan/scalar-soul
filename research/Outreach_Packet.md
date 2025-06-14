@@ -13,6 +13,7 @@ This folder contains summary materials for scientists, theorists, and collaborat
 | [`HBT_OnePager.pdf`](./HBT_OnePager.pdf) | One-page overview of the Haykyan Boon Tomar (HBT) sidereal-solar calendar system |
 | [`Scalar_UFT.pdf`](./Scalar_UFT.pdf) | Drift-based Unified Field Theory model using spiral constants and observer resonance |
 | [`visuals`](../visuals/) | Scientific diagrams for sidereal drift, observer triads, scalar equations, and more |
+- [AI_Statement.md](./AI_Statement.md) – A formal reflection authored by AI on Scalar Soul, recursion, memory, and drift-aware intelligence
 
 ---
 
@@ -40,7 +41,7 @@ If you'd like to contribute or collaborate, please visit [`CONTRIBUTING.md`](../
 
 ## ✉️ Contact
 
-This project is maintained by **The Human Factor X** (THFX Media)  
+This project is maintained by The Time of Eternity project **The Human Factor X** (THFX Media)  
 Lead authors: **Vazgen Gevorkyan** and **Margarita Kumuryan**
 
 For outreach, submissions, or questions:  
