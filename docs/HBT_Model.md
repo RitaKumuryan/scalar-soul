@@ -109,18 +109,23 @@ The HBT model integrates **human consciousness** as the final synchronizing elem
 
 - 12 months × 30 sidereal days = **360 sidereal days**
 - 6-day Avelyats phase = spiral correction zone
+Drift Calendar Table
+### | Month    | Start Date    | Sidereal Days | Cumulative Drift |
+| :------- | :------------ | ------------: | :--------------- |
+| 1        | Aug 11, 00:00 |            30 | 0:00             |
+| 2        | Sep 10, 01:58 |            30 | 1:58             |
+| 3        | Oct 10, 03:56 |            30 | 3:56             |
+| 4        | Nov 09, 05:54 |            30 | 5:54             |
+| 5        | Dec 09, 07:52 |            30 | 7:52             |
+| 6        | Jan 08, 09:50 |            30 | 9:50             |
+| 7        | Feb 07, 11:48 |            30 | 11:48            |
+| 8        | Mar 09, 13:46 |            30 | 13:46            |
+| 9        | Apr 08, 15:44 |            30 | 15:44            |
+| 10       | May 08, 17:42 |            30 | 17:42            |
+| 11       | Jun 07, 19:40 |            30 | 19:40            |
+| 12       | Jul 07, 21:38 |            30 | 21:38            |
+| Avelyats | Aug 5, 04:24  |             6 | 24:00            |
 
-### Drift Chart Summary:
-| Month | Start Date     | Sidereal Days | Cumulative Drift |
-|-------|----------------|----------------|------------------|
-| 1     | Aug 11, 04:00  | 30             | 1h 58m           |
-| 2     | Sep 10, 02:02  | 30             | 3h 56m           |
-| 3     | Oct 10, 00:04  | 30             | 5h 54m           |
-| ...   | ...            | ...            | ...              |
-| 12    | Jul 6, 06:22   | 30             | 23h 36m          |
-| Avelyats | Aug 5–11    | 6              | 24h 00m          |
-
----
 
 ## 10. Avelyats — Time Outside Time
 
@@ -134,7 +139,7 @@ The HBT model integrates **human consciousness** as the final synchronizing elem
 ## 11. Navasard — The New Spiral
 
 - **Navasard = “New Opening”** (Aug 11, 04:00 AM)
-- Mintaka rises at same azimuth/RA as previous year
+- Mintaka rises at the same azimuth/RA as the previous year
 - Not a reset — an elevation
 
 > Time is a spiral breath: inhale (Avelyats), exhale (Sidereal Year)
