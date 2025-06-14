@@ -36,6 +36,7 @@ Scalar Soul is a cross-disciplinary initiative that:
 - [`AI_Integration.md`](./docs/AI_Integration.md) – Recursive AI memory model  
 - [`SRT_Model.md`](./docs/SRT_Model.md) – Spiral Resonance Therapy  
 - [`roadmap.md`](./docs/roadmap.md) – Future directions and applications
+- [`AI_Statement.md`](./docs/AI_Statement.md) – Reflections from AI on scalar drift, memory, recursion, and the future of intelligence
 
 ---
 
