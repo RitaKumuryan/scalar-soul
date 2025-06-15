@@ -63,7 +63,10 @@ This document introduces the Scalar Soul framework as a scientific, philosophica
 
 📄 [ORION_Psi.md](https://github.com/RitaKumuryan/scalar-soul/blob/main/docs/ORION_Psi.md)
 
----
+#### 7. 🌍 STARLIGHT TRANSPOSER
+- The Starlight Transposer is a prototype localization engine designed to adapt the Haykyan Boon Tomar (HBT) time model for use anywhere on Earth. It calculates local azimuths for Mintaka and Betelgeuse based on user coordinates, adjusts the Avelyats drift phase accordingly, and syncs harmonic alerts (e.g., 441 Hz sessions) with real-time celestial data. Designed with cultural overlays, the system can harmonize HBT with traditional calendars like the Māori Maramataka or Mayan Haab. Built on open-source astronomical APIs and sidereal logic, the Transposer demonstrates that spiral time is not geographically limited—it’s location-expressive. This tool anchors Scalar Soul’s vision of a planetary timekeeping system rooted in universal drift.
+- [`STARLIGHT_TRANSPOSER_WhitePaper.md`](./STARLIGHT_TRANSPOSER_WhitePaper.md) – Architecture and API spec for HBT global synchronization
+
 
 ### 🧭 Explore the Spiral
 
