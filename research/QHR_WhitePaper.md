@@ -1,8 +1,7 @@
 
 # 🧠 Quantum-Holographic Retrieval (QHR)
 
-**Author:** Robert Ghazaryan  
-**English Co-author:** Margarita Kumuryan  
+**Author:** Robert Ghazaryan   
 **Project:** The Time of Eternity / Scalar Soul  
 **License:** CC BY-NC-SA 4.0
 
