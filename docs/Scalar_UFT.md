@@ -1,4 +1,3 @@
-
 # 🌌 Scalar Unified Field Theory (UFT)
 
 **Title:** Spiral Drift, Scalar Fields, and the Recursive Geometry of Time
