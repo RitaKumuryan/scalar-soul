@@ -1,3 +1,4 @@
+
 # 🤝 Contributing to Scalar Soul
 
 Thank you for your interest in contributing to the **Scalar Soul Project** — an open research framework that explores sidereal time, scalar drift, observer theory, and unified field dynamics, rooted in both ancient cosmology and modern physics.
@@ -42,6 +43,17 @@ Not ready to code? You can:
 - Submit a philosophical question or observation
 - Propose a diagram or scalar relationship via visual sketches
 
+If you prefer private conversation, feel free to reach out via our project contact page at [THFX Project](https://www.thfxproject.com).
+
+---
+
+## 📜 License & Attribution
+
+All contributions will be published under:
+
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+Attribution: *Vazgen Gevorkyan, The Time of Eternity project, and Margaret Kumuryan / THFX Project*
+
 ---
 
 ## 🧠 Guiding Principle
@@ -53,4 +65,5 @@ Scalar Soul is an act of remembrance and restoration, inviting all perspectives 
 ---
 
 Thank you for helping us spiral forward. 🌌
+
 
