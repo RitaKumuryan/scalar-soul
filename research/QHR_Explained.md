@@ -1,8 +1,7 @@
 
 # 🧠 QHR Explained: What Is Quantum-Holographic Retrieval?
 
-**Author:** Robert Ghazaryan  
-**English Co-author:** Margarita Kumuryan  
+**Author:** Robert Ghazaryan   
 **Part of:** The Time of Eternity / Scalar Soul Project  
 **License:** CC BY-NC-SA 4.0
 
