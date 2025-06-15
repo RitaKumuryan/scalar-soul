@@ -1,3 +1,4 @@
+
 # 📄 HBT One-Pager: Scientific Summary
 
 **Haykyan Boon Tomar (HBT)** is a sidereal-solar calendar system rooted in ancient Armenian cosmology, reconceived for modern scientific application. Unlike linear models that require artificial leap year adjustments, HBT integrates sidereal drift naturally through a spiral time constant and astronomical alignments.
