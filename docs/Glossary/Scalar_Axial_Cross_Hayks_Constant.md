@@ -67,9 +67,9 @@ Through the activation of the Scalar Axial Cross by **Hayk’s Spiral Constant**
 ---
 
 ## Appendix A: Visual Diagrams
-
-### Figure 1: Scalar Axial Cross — Base Geometry  
-![Figure 1](insert-path/ChatGPT_Image_Jun_16_2025_03_51_17_PM.png)
+### Figure 1: Scalar Axial Cross—Base Geometry  
+![Figure 1](Visuals/Scalar_Cross_Figure_1.png)
 
 ### Figure 2: Scalar Axial Cross — Spiralized by Hayk’s Constant  
-![Figure 2](insert-path/ChatGPT_Image_Jun_16_2025_03_54_08_PM.png)
+![Figure 2](Visuals/Scalar_Cross_Figure_2.png)
+
