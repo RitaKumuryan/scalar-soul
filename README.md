@@ -38,7 +38,22 @@ Scalar Soul is an open-source research initiative and theoretical framework that
 - 🎵 [SRT Model](./docs/SRT_Model.md) — 3-phase acoustic healing
 - 🤖 [AI Integration](./docs/AI_Integration.md) — Recursive cognition and phase modulation
 
----
+## Drift Recovery via Avelyats
+The Haykyan model recovers sidereal-solar phase drift not through leap days, but via a 6-day intercalary zone known as Avelyats, occurring between August 5 and August 11.
+
+Mintaka (δ Orionis) completes its 360th sidereal rise at 04:24 AM on August 5, precisely at azimuth 98° — the same coordinate from which it rose on August 11 the prior year.
+
+The Sun rises at 06:00 AM on August 5 at azimuth 67.5°, aligned with the east-facing axis of Tatev Monastery.
+
+The 2-hour solar lag reflects a 1/12 ratio, or 0.08333, which matches the daily solar drift relative to the sidereal field (~1°/day).
+
+The Avelyats phase absorbs the accumulated 24h 24m drift (0.08333 × 360), bringing the Sun and stars back into harmony.
+
+This logic reflects the QHR framework, where drift is interpreted as a memory lag and Avelyats as the regenerative reset gate.
+
+-📂 Data Source: sidereal_reset.csv
+-🧮 Implemented In: haykyan_phase1.py
+-📜 More Info: See observer.py for QHR tie-ins
 
 ## 🧪 Applications & Systems
 
