@@ -69,3 +69,17 @@ def run_full_simulation():
 
 if __name__ == "__main__":
     run_full_simulation()
+# --- Haykyan Spiral Synchronization Logic ---
+# On August 5:
+# - Betelgeuse rises at 04:00 AM at azimuth 90°
+# - Mintaka rises at 04:24 AM at azimuth 98° (Sidereal Reset)
+# - The Sun rises at 06:00 AM at azimuth 67.5°, aligned with Tatev Monastery axis
+# 
+# The 2-hour delay between Betelgeuse (sidereal anchor) and the Sun reflects:
+#   2 hours / 24 hours = 0.08333 (1/12)
+# 
+# This scalar offset encodes the daily solar drift of ~1°, which accumulates over 360 sidereal days
+# → 360° × 0.08333 = 30° drift recovered during Avelyats phase
+# 
+# No leap day is needed — this 6-day correction zone (Avelyats) absorbs and resets the drift,
+# marking a transition zone before Mintaka rises again at 98° on August 11 (New Year).
