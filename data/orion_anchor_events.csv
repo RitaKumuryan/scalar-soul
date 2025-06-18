@@ -1,0 +1,4 @@
+Event,Star,Role,Date,Time (UTC+4),Azimuth,RA,Declination,Latitude,Longitude,Elevation (°)
+Starting Point,Mintaka,New Year Anchor,August 11,04:00 AM,98,5h 33m,–0°15′57″,39.38,46.26,11.0
+Reset Point,Betelgeuse,Sidereal Recalibration,August 5,04:00 AM,90,5h 56m,+7°27′20″,39.38,46.26,
+Zero Hour,Mintaka,Sidereal Completion Marker,August 5,04:24 AM,98,5h 33m,–0°15′57″,39.38,46.26,11.0
