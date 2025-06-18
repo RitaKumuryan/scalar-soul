@@ -1,0 +1,4 @@
+Event,"Date (AST, UTC+4)","Time (AST, UTC+4)",Date (UTC),Time (UTC),Star,Azimuth,Right Ascension,Declination,Location,Marker,Notes
+Sidereal Reset Begins,"August 5, 2025",04:00 AM,"August 5, 2025",12:00 AM,Betelgeuse (α Orionis),90°,5h 56m,+7°27′20″,"Tatev Monastery, Armenia",Sidereal Reset Anchor,"Betelgeuse rises due East, initiating the Avelyats zone."
+Zero Hour (Mintaka 360th Rise),"August 5, 2025",04:24 AM,"August 5, 2025",12:24 AM,Mintaka (δ Orionis),98°,5h 33m,–0°15′57″,"Tatev Monastery, Armenia",Sidereal Completion,"Mintaka returns to original rising point, 360th cycle complete."
+Solar Synchronization,"August 5, 2025",06:00 AM,"August 5, 2025",02:00 AM,Sun,67.5°,9h 00m,+17°30′50″,"Tatev Monastery, Armenia",Solar Alignment with Monastery Axis,"Sunrise at azimuth 67.5°, aligned with Tatev axis."
